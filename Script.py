@@ -10,7 +10,8 @@ class script(object):
  ❦︎ ᴅᴀᴛᴀ ʙᴀsᴇ : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
  ❦︎ ʙᴏᴛ sᴇʀᴠᴇʀ : 𝙷𝙴𝚁𝙾𝙺𝚄
  ❦︎ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : 𝚅1.0.43
- ❦︎ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/Electro_Botz>Eʟᴇᴄᴛʀᴏ Bᴏᴛᴢ ⚡️</a>"""
+ ❦︎ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/Electro_Botz>Eʟᴇᴄᴛʀᴏ Bᴏᴛᴢ ⚡️</a>
+ ❦︎ Yᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://youtube.com/channel/UC8cwZPS77sTgoX9QD1NLwWw<a/>"""
     DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
 
 ›› <b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</b>
